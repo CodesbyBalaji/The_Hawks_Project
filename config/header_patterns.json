@@ -1,0 +1,128 @@
+{
+  "header_patterns": [
+    [
+      "(?i)(?<!given\\s)Patient Instructions(?: \\(continued\\))?",
+      "Patient Instructions"
+    ],
+    [
+      "(?i)ADMISSION ASSESSMENT",
+      "Admission Assessment"
+    ],
+    [
+      "(?i)ASSESSMENT/PLAN",
+      "Clinical Notes"
+    ],
+    [
+      "(?i)CHIEF COMPLAINT",
+      "Clinical Notes"
+    ],
+    [
+      "(?i)CLINICAL NOTES(?: \\(continued\\))?",
+      "Clinical Notes"
+    ],
+    [
+      "(?i)CONSENT FOR (?:ANAESTHESIA|SURGERY)",
+      "Consent Form"
+    ],
+    [
+      "(?i)DIAGNOSTIC REPORT",
+      "Diagnostic Report"
+    ],
+    [
+      "(?i)DISCHARGE SUMMARY",
+      "Discharge Summary"
+    ],
+    [
+      "(?i)FINAL BILL",
+      "Billing"
+    ],
+    [
+      "(?i)HEMOGLOBIN A1C",
+      "Laboratory Report"
+    ],
+    [
+      "(?i)INITIAL ASSESSMENT FORM",
+      "Initial Assessment"
+    ],
+    [
+      "(?i)INTAKE AND OUTPUT RECORD",
+      "Intake And Output Record"
+    ],
+    [
+      "(?i)IV FLUIDS CHART",
+      "IV Fluids Chart"
+    ],
+    [
+      "(?i)LABORATORY REPORT",
+      "Laboratory Report"
+    ],
+    [
+      "(?i)LABS",
+      "Laboratory Report"
+    ],
+    [
+      "(?i)Labs(?: \\(continued\\))?",
+      "Laboratory Report"
+    ],
+    [
+      "(?i)LIPID PANEL",
+      "Laboratory Report"
+    ],
+    [
+      "(?i)LIPOMA",
+      "Clinical Notes"
+    ],
+    [
+      "(?i)MEDICINE ORDER SHEET",
+      "Medication Orders"
+    ],
+    [
+      "(?i)NURSES DAILY RECORD",
+      "Nursing Notes"
+    ],
+    [
+      "(?i)NURSING ADMISSION ASSESSMENT",
+      "Admission Assessment"
+    ],
+    [
+      "(?i)Patient Instructions(?: \\(continued\\))?",
+      "Patient Instructions"
+    ],
+    [
+      "(?i)PHIMOSIS",
+      "Clinical Notes"
+    ],
+    [
+      "(?i)PRE OPERATIVE CHECKLIST",
+      "Pre-Op Checklist"
+    ],
+    [
+      "(?i)PROGRESS NOTES",
+      "Progress Notes"
+    ],
+    [
+      "(?i)PROGRESS SHEET",
+      "Progress Notes"
+    ],
+    [
+      "(?i)TEMPERATURE CHART",
+      "Temperature Chart"
+    ],
+    [
+      "(?i)TSH",
+      "Laboratory Report"
+    ],
+    [
+      "(?i)UROLOGY PROGRESS NOTE",
+      "Progress Notes"
+    ],
+    [
+      "(?i)VITAL SIGNS",
+      "Vital Signs"
+    ],
+    [
+      "(?i)VITAL SIGNS SHEET",
+      "Vital Signs"
+    ]
+  ]
+}
